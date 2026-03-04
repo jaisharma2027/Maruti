@@ -1,0 +1,19 @@
+{
+  "name": "maruti-local-ai",
+  "version": "1.0.0",
+  "description": "MARUTI — Local AI Speech & Intelligence System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Jai",
+  "license": "MIT",
+  "private": true
+}

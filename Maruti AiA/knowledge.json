@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "topic": "LinkedIn Writing Style",
+    "content": "Use strong hooks in the first line. Write short paragraphs (1-2 sentences max). Be conversational and direct. Use line breaks for readability. End with a question or CTA. Avoid jargon. Start with a bold statement or surprising fact.",
+    "tags": ["linkedin", "writing", "social media"],
+    "date_added": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "topic": "Professional Email Format",
+    "content": "Start with a clear subject line. Use formal salutation (Dear [Name]). State purpose in the first sentence. Keep body concise — 3 paragraphs max. End with a clear next step or CTA. Sign off with 'Best regards' or 'Sincerely'.",
+    "tags": ["email", "professional", "communication"],
+    "date_added": "2025-01-01"
+  },
+  {
+    "id": 3,
+    "topic": "Meeting Notes Structure",
+    "content": "Always include: Date and time, Attendees list, Agenda items discussed, Key decisions made, Action items with owner names and due dates, Next meeting date if applicable. Use bullet points for clarity.",
+    "tags": ["meeting", "notes", "productivity"],
+    "date_added": "2025-01-01"
+  },
+  {
+    "id": 4,
+    "topic": "Jai's Writing Preferences",
+    "content": "Jai prefers direct, no-fluff communication. Uses first-person perspective. Focuses on building and startup culture. Interested in AI, systems, and founder mindset. Preferred tone: confident but approachable.",
+    "tags": ["personal", "preferences", "founder"],
+    "date_added": "2025-01-01"
+  },
+  {
+    "id": 5,
+    "topic": "Startup Pitch Language",
+    "content": "Lead with the problem statement. Follow with the unique solution. Use data and numbers when possible. Keep sentences short. Avoid passive voice. End every section with a value statement. Always answer: Why now? Why us?",
+    "tags": ["startup", "pitch", "entrepreneurship"],
+    "date_added": "2025-01-01"
+  }
+]
